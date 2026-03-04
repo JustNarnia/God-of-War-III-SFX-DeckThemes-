@@ -1,0 +1,10 @@
+{
+  "name": "God of War SFX",
+  "description": "SFX Effects from God of War III",
+  "author": "JustNarnia",
+  "version": "v1.0",
+  "manifest_version": 1.0,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
